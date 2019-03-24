@@ -65,6 +65,9 @@ closes the menu, Enter accesses an entry, left and right toggle between
 values, up and down move between menu items. Note there's a bug that the
 resume option doesn't work, just press Escape to resume the game.
 
+The view can be controlled with a mouse. Dragging with the left button
+rotates the view. Scrolling with the scroll wheel zooms in/out.
+
 ## Notes on the code
 The code is pretty old (it was made in 2012 I think). It uses the obsolete
 Python 2 and obscure stuff like FTGL. It's also not written well. To start,
